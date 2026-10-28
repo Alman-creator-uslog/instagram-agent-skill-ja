@@ -1,0 +1,13 @@
+{
+  "name": "instagram-agent-ja",
+  "description": "インスタを回す Claude のスキル13個（日本語版）。フックの型26種類から採点つきのリール台本と秒割り表、自分のジャンルで伸びているリールを伸び倍率で並べるリサーチ、「続きを読む」の前の見え方を出すキャプションの検査、カルーセル、ストーリーズ、プロフィールの採点、1週間の計画、コメント、返信、DM、使い回し、振り返り、出す前にAIっぽさを消す道具。元は Jake Schincariol の instagram-agent-skill（MIT）。",
+  "version": "1.0.0",
+  "author": {
+    "name": "あるまん",
+    "url": "https://www.instagram.com/almantiqi3/"
+  },
+  "homepage": "https://github.com/Alman-creator-uslog/instagram-agent-skill-ja",
+  "repository": "https://github.com/Alman-creator-uslog/instagram-agent-skill-ja",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "japanese", "content", "writing", "humanizer", "social", "marketing"]
+}
